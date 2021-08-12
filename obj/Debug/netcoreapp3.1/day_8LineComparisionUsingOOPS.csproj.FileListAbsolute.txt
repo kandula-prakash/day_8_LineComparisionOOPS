@@ -1,0 +1,13 @@
+C:\Users\prakash kandula\source\repos\day_8LineComparisionUsingOOPS\day_8LineComparisionUsingOOPS\obj\Debug\netcoreapp3.1\day_8LineComparisionUsingOOPS.csproj.AssemblyReference.cache
+C:\Users\prakash kandula\source\repos\day_8LineComparisionUsingOOPS\day_8LineComparisionUsingOOPS\obj\Debug\netcoreapp3.1\day_8LineComparisionUsingOOPS.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\day_8LineComparisionUsingOOPS\day_8LineComparisionUsingOOPS\obj\Debug\netcoreapp3.1\day_8LineComparisionUsingOOPS.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\day_8LineComparisionUsingOOPS\day_8LineComparisionUsingOOPS\obj\Debug\netcoreapp3.1\day_8LineComparisionUsingOOPS.csproj.CoreCompileInputs.cache
+C:\Users\prakash kandula\source\repos\day_8LineComparisionUsingOOPS\day_8LineComparisionUsingOOPS\bin\Debug\netcoreapp3.1\day_8LineComparisionUsingOOPS.exe
+C:\Users\prakash kandula\source\repos\day_8LineComparisionUsingOOPS\day_8LineComparisionUsingOOPS\bin\Debug\netcoreapp3.1\day_8LineComparisionUsingOOPS.deps.json
+C:\Users\prakash kandula\source\repos\day_8LineComparisionUsingOOPS\day_8LineComparisionUsingOOPS\bin\Debug\netcoreapp3.1\day_8LineComparisionUsingOOPS.runtimeconfig.json
+C:\Users\prakash kandula\source\repos\day_8LineComparisionUsingOOPS\day_8LineComparisionUsingOOPS\bin\Debug\netcoreapp3.1\day_8LineComparisionUsingOOPS.runtimeconfig.dev.json
+C:\Users\prakash kandula\source\repos\day_8LineComparisionUsingOOPS\day_8LineComparisionUsingOOPS\bin\Debug\netcoreapp3.1\day_8LineComparisionUsingOOPS.dll
+C:\Users\prakash kandula\source\repos\day_8LineComparisionUsingOOPS\day_8LineComparisionUsingOOPS\bin\Debug\netcoreapp3.1\day_8LineComparisionUsingOOPS.pdb
+C:\Users\prakash kandula\source\repos\day_8LineComparisionUsingOOPS\day_8LineComparisionUsingOOPS\obj\Debug\netcoreapp3.1\day_8LineComparisionUsingOOPS.dll
+C:\Users\prakash kandula\source\repos\day_8LineComparisionUsingOOPS\day_8LineComparisionUsingOOPS\obj\Debug\netcoreapp3.1\day_8LineComparisionUsingOOPS.pdb
+C:\Users\prakash kandula\source\repos\day_8LineComparisionUsingOOPS\day_8LineComparisionUsingOOPS\obj\Debug\netcoreapp3.1\day_8LineComparisionUsingOOPS.genruntimeconfig.cache
